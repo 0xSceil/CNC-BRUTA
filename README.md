@@ -1,2 +1,2 @@
 # CNC-BRUTA
-cnc bruta for the speds
+You can change all creds / add creds
